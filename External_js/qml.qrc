@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>External1.js</file>
+        <file>External2.js</file>
+    </qresource>
+</RCC>
